@@ -1,2 +1,2 @@
 # java1
-all my source and executables from my Java 1 class
+the midlife crisis is real, you'll see. some people respond to it by buying a sports car, others go off and have an affair. i am celebrating my midlife crisis by trying to learn java. i'm weird, what can i say? here within are all my source and executables from my Java 1 class taken at austin community college in beautiful austin, tx in the summer of 2016. be gentle, for i am old and rusty.
